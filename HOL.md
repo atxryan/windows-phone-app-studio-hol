@@ -40,6 +40,38 @@ This hands-on lab includes the following exercises:
 <a name="Exercise1"></a>
 ### Exercise 1: Signing up for Windows Phone App Studio ###
 
+1. Open Internet Explorer and go to [http://http://apps.windowsstore.com/](http://http://apps.windowsstore.com/n).
+
+1. Click the **Start Building** button.
+
+	![Start Building](images/ex1-01-start-building.PNG "Start Building")
+
+	_Start Building_
+
+1. Sign in with your Microsoft account
+
+	![Sign In](images/ex1-02-sign-in.PNG "Sign In")
+
+	_Sign In_
+
+1. Click **Yes** to allow App Studio to access your email addresses in your profile.
+
+	![Access](images/ex1-03-access-email.PNG "Access")
+
+	_Access_
+
+1. Agree to the terms and click **Register**.
+
+	![Register](images/ex1-04-register.PNG "Register")
+
+	_Register_
+
+1. The next page you see will be your App Studio dashboard, which means you're good to go!
+
+	![Dashboard](images/ex1-05-success.PNG "Dashboard")
+
+	_Dashboard_
+
 <a name="Exercise2"></a>
 ### Exercise 2: Creating your first app ###
 
@@ -51,7 +83,7 @@ In this exercise you will learn how to customize your app.
 <a name="Ex3Task1"></a>
 #### Task 1: Using content from the Web ####
 
-In this task you will learn how to customize your app using content from YouTube, Flickr, or Tumblr. 
+In this task you will learn how to customize your app using content from YouTube, Flickr, or Tumblr. Complete one of the options below.
 
 <a name="Ex3Task1Option1"></a>
 ##### Option 1: YouTube #####
@@ -64,6 +96,8 @@ In this task you will learn how to customize your app using content from YouTube
 
 <a name="Exercise4"></a>
 ### Exercise 4: Testing your app ###
+
+In this exercise you will learn how to test your app.
 
 <a name="Exercise5"></a>
 ### Exercise 5: Publishing your app ###
