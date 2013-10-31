@@ -1,9 +1,11 @@
 <a name="Title"></a>
-# Windows Phone App Studio #
+# Windows Phone App Studio Hands On Lab #
 
 ---
 <a name="Overview"></a>
 ## Overview ##
+
+This hands on lab will walk you through the process of building, testing, and publishing your first app using Microsoft's Windows Phone App Studio.
 
 <a name="Objectives"></a>
 ### Objectives ###
@@ -225,6 +227,12 @@ In this task you'll learn how to add content from YouTube to your app.
 
 <a name="Exercise4"></a>
 ### Exercise 4: Configuring your app's style ###
+
+In this exercise you will learn how to configure the style of your app by doing the following:
+
+- Customizing the colors within your app
+- Customizing the tiles used by your app
+- Customizing the splash and lock screen used by your app
 
 <a name="Ex4Task1"></a>
 #### Task 1: Color customization ####
