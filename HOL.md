@@ -25,6 +25,7 @@ The following is required to complete this hands-on lab:
 	- YouTube
 	- Flickr
 	- Tumblr
+	
 ---
 <a name="Exercises"></a>
 ## Exercises ##
