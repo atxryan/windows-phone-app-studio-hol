@@ -71,9 +71,9 @@ In this task you will learn how to customize your app using content from YouTube
 In this exercise you will learn how to publish your app to the Windows Phone Store.
 
 <a name="Ex5Task1"></a>
-#### Task 1: Creating a Windows Phone Store account ####
+#### Task 1: Creating a Windows Phone Dev Center account ####
 
-If you already have an account with the Windows Phone store, proceed to [Task 2](#Ex5Task2).
+If you already have an account with the Windows Phone Dev Center, proceed to [Task 2](#Ex5Task2).
 
 1. Open Internet Explorer and go to [https://dev.windowsphone.com/en-us/join](https://dev.windowsphone.com/en-us/join).
 
@@ -89,6 +89,8 @@ If you already have an account with the Windows Phone store, proceed to [Task 2]
 
 	_Sign In_
 
+	**Note:** If you plan on using DreamSpark for a free Dev Center you will need to sign in using the Microsoft account associated with your DreamSpark account.
+
 1.	Get started by selecting your country/region of residence or business, account type, and agreeing to the legal terms. Then click **Next**.
 
 	![Get Started](images/ex5task1-03-get-started.PNG "Get Started")
@@ -97,7 +99,28 @@ If you already have an account with the Windows Phone store, proceed to [Task 2]
 
 	Select a **Company** account if you're registering on behalf of a corporation, LLC, partnership, or other company legally registered with your government.
 
-	Select an **Individual/Student** account if you are an individual developer or a student with a verified DreamSpark account. 
+	Select an **Individual/Student** account if you are an individual developer or a student with a verified DreamSpark account.
+
+1. Fill in your contact information.
+
+	![Contact Info](images/ex5task1-04-contact-info.PNG "Contact Info")
+
+	_Contact Info_
+
+1. Create a **Publisher Name** and click **Next**. The **Publisher Name** is what users see on their phone. Publisher names are unique and will be verified during the registration and account validation processes.
+
+	![Publisher Info](images/ex5task1-05-publisher-info.PNG "Publisher Info")
+
+	_Publisher Info_
+
+1. Purchase your subscription. There are three ways you can purchase a subscription:
+	- You can pay by credit card or PayPal.
+	- If you're a student and have a DreamSpark account, you can set up a free Dev Center account.
+	- If you have a prompo code, you can redeem it by entering the code in the field.
+
+	![Purchase](images/ex5task1-06-purchase.PNG "Purchase")
+
+	_Purchase_
 
 <a name="Ex5Task2"></a>
 #### Task 2: Publishing your app ####
