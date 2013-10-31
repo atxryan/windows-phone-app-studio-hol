@@ -113,7 +113,7 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 	_Publisher Info_
 
-1. Purchase your subscription. There are three ways you can purchase a subscription:
+1. Purchase your subscription by selecting the appropriate payment option and click **Next**. There are three ways you can purchase a subscription:
 	- You can pay by credit card or PayPal.
 	- If you're a student and have a DreamSpark account, you can set up a free Dev Center account.
 	- If you have a prompo code, you can redeem it by entering the code in the field.
