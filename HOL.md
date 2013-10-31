@@ -21,10 +21,7 @@ In this hands-on lab, you will learn how to:
 
 The following is required to complete this hands-on lab:
 - A Microsoft account - [sign up for a free Microsoft account](https://signup.live.com)
-- An account with one of the following
-	- [YouTube](http://youtube.com)
-	- [Flickr](http://flickr.com)
-	- [Tumblr](http://tumblr.com)
+- Optional: a Windows Phone to test your app
 
 ---
 <a name="Exercises"></a>
@@ -33,11 +30,15 @@ The following is required to complete this hands-on lab:
 This hands-on lab includes the following exercises:
 - [Exercise 1: Signing up for Windows Phone App Studio](#Exercise1)
 - [Exercise 2: Creating your first app](#Exercise2)
-- [Exercise 3: Testing your app](#Exercise4)
-- [Exercise 4: Publishing your app](#Exercise5)
+- [Exercise 3: Adding content to your app](#Exercise3)
+- [Exercise 4: Styling your app](#Exercise4)
+- [Exercise 5: Testing your app](#Exercise5)
+- [Exercise 6: Publishing your app](#Exercise6)
 
 <a name="Exercise1"></a>
 ### Exercise 1: Signing up for Windows Phone App Studio ###
+
+In this exercies you will sign up for access to Windows Phone App Studio. If you already have access to App Studio, please proceed to [Exercise 2](#Exercise2).
 
 1. Open Internet Explorer and go to [http://http://apps.windowsstore.com/](http://http://apps.windowsstore.com/n).
 
@@ -74,26 +75,19 @@ This hands-on lab includes the following exercises:
 <a name="Exercise2"></a>
 ### Exercise 2: Creating your first app ###
 
-In this exercise you will create your first app using App Studio by doing the following:
-
-- Specifying your app's information
-- Configuring your app's content
-- Configuring your app's style
-
-<a name="Ex2Task1"></a>
-#### Task 1: Specifying your app's information ####
+In this exercise you will create your first app using App Studio.
 
 1. If not already open, open Internet Explorer and browse to your [App Studio dashboard](http://apps.windowsstore.com/DashBoard/Index).
 
 1. Click the **Create App** button
 
-	![Create App](images/ex2-task1-01-create-app.PNG "Create App")
+	![Create App](images/ex2-01-create-app.PNG "Create App")
 
 	_Create App_
 
 1. As you can see, there are a number of templates available for you to use in App Studio. For your first app, we'll actually start with an empty app. Click **create an empty app**.
 
-	![Empty App](images/ex2-task1-02-empty-app.PNG "Empty App")
+	![Empty App](images/ex2-02-empty-app.PNG "Empty App")
 
 	_Empty App_
 
@@ -101,50 +95,163 @@ In this exercise you will create your first app using App Studio by doing the fo
 
 1. To change your app's logo click the **LOGO** image
 
-	![Logo](images/ex2-task1-03-logo.PNG "Logo")
+	![Logo](images/ex2-03-logo.PNG "Logo")
 
 	_Logo_
 
 1. Select a 160x160 image from your computer, your SkyDrive account or from the App Studio resources.
 
-	![Image Source](images/ex2-task1-04-logo.PNG "Image Source")
+	![Image Source](images/ex2-04-logo.PNG "Image Source")
 
 	_Image Source_
 
 1. Once your title, description, default language, and logo have been specified your ready to move on to the next task.
 
-	![Done](images/ex2-task1-05-done.PNG "Done")
+	![Done](images/ex2-05-done.PNG "Done")
 
 	_Done_
 
-<a name="Ex2Task2"></a>
-#### Task 2: Configuring your app's content ####
-
-In this task you will learn how to customize your app using content from YouTube, Flickr, or Tumblr. Complete one of the options below.
-
-<a name="Ex2Task2Option1"></a>
-##### Option 1: YouTube #####
-
-<a name="Ex2Task2Option2"></a>
-##### Option 2: Flickr #####
-
-<a name="Ex2Task2Option3"></a>
-##### Option 3: Tumblr #####
-
-<a name="Ex2Task3"></a>
-#### Task 3: Configuring your app's style ####
-
 <a name="Exercise3"></a>
-### Exercise 3: Testing your app ###
+
+### Exercise 3: Adding content to your app ###
+
+In this exercise you will add content to your app from Flickr and YouTube.
+
+<a name="Ex3Task1"></a>
+##### Task 1: Adding a menu to your app ####
+
+In this task you will learn how to add a menu to your app
+
+1. From the **App Information** page click **Next** or **Configure App Content**
+
+	![Next](images/ex3-task1-01-next.PNG "Next")
+
+	_Next_
+
+1. Click the **+** button to add a **Section** to your app.
+
+	![Add Application Section](images/ex3-task1-02-add-section.PNG "Add Application Section")
+
+	_Add Application Section_
+
+1. Click the **Add Menu** link to add a menu section to your app.
+
+	![Add Menu](images/ex3-task1-03-add-menu.PNG "Add Menu")
+
+	_Add Menu_
+
+1. Change the **MENU TITLE**.
+
+	![Menu Title](images/ex3-task1-04-menu-title.PNG "Menu Title")
+
+	_Menu Title_
+
+<a name="Ex3Task2"></a>
+#### Task 2: Adding Flickr content to your app ####
+
+In this task you will learn how to add content from Flickr to your app.
+
+1. Click the **+** button next to **Menu Items**, then click the **Add Section Item** link.
+
+	![Add Section Item](images/ex3-task2-01-add-section-item.PNG "Add Section Item")
+
+	_Add Section Item_
+
+
+1. Enter a **SECTION NAME**, select the **Flickr** datasource, enter a **DATASOURCE NAME**, and click **Save Changes**.
+
+	![Flickr Section](images/ex3-task2-02-flickr-section.PNG "Flickr Section")
+
+	_Flickr Section_
+
+1. Click the **pencil** to edit the Flickr section.
+
+	![Edit Flickr Section](images/ex3-task2-03-edit-flickr.PNG "Edit Flickr Section")
+
+	_Edit Flickr Section_
+
+1. To change the Flickr search used by your app, click the **Flickr Data Source** button.
+
+	![Edit Data Source](images/ex3-task2-04-edit-datasource.PNG "Edit Data Source")
+
+	_Edit Data Sorce_
+
+1. Change the default search phrase and click **Refresh**. If you're happy with the results, click the **checkmark** to save your changes.
+
+	![Data Source](images/ex3-task2-05-datasource.PNG "Data Source")
+
+	_Data Source_
+
+<a name="Ex3Task3"></a>
+#### Task 3: Adding YouTube content to your app ####
+
+In this task you'll learn how to add content from YouTube to your app.
+
+1. Click the **pencil** next to the menu section to edit it.
+
+	![Edit Menu](images/ex3-task3-01-menu-edit.PNG "Edit Menu")
+
+	_Edit Menu_
+
+1. Click the **+** button next to **Menu Item**, then click the **Add Section Item** link.
+
+	![Add Section Item](images/ex3-task3-02-add-section-item.PNG "Add Section Item")
+
+	_Add Section Item_
+
+1. Enter a **SECTION NAME**, select the **YouTube** datasource, enter a **DATASOURCE NAME**, and click **Save Changes**.
+
+	![YouTube Section](images/ex3-task3-03-youtube-section.PNG "YouTube Section")
+
+	_YouTube Section_
+
+1. Clikc the **pencil** to edit the YouTube section.
+
+	![Edit YouTube Section](images/ex3-task3-04-edit-youtube.PNG "Edit YouTube Section")
+
+	_Edit YouTube Section_
+
+1. To change the YouTube search used by your app, click the **YouTube Data Source** button.
+
+	![Edit Data Source](images/ex3-task3-05-edit-datasource.PNG "Edit Data Source")
+
+	_Edit Data Sorce_
+
+1. Change the default search phrase and click **Refresh**. If you're happy with the results, click the **checkmark** to save your changes.
+
+	![Data Source](images/ex3-task3-06-datasource.PNG "Data Source")
+
+	_Data Source_
+
+<a name="Exercise4"></a>
+### Exercise 4: Configuring your app's style ###
+
+<a name="Ex4Task1"></a>
+#### Task 1: Color customization ####
+
+In this task you will learn how to customize the colors within your app.
+
+<a name="Ex4Task2"></a>
+#### Task 2: Tile customization ####
+
+In this task you will learn how to customize the tiles used by your app.
+
+<a name="Ex4Task3"></a>
+#### Task 3: Splash and lock screens ####
+
+In this task you will learn how to customize your app's splash and lock screens.
+
+<a name="Exercise5"></a>
+### Exercise 5: Testing your app ###
 
 In this exercise you will learn how to test your app.
 
-<a name="Exercise4"></a>
-### Exercise 4: Publishing your app ###
+<a name="Exercise6"></a>
+### Exercise 6: Publishing your app ###
 
 In this exercise you will learn how to publish your app to the Windows Phone Store.
 
-<a name="Ex4Task1"></a>
+<a name="Ex6Task1"></a>
 #### Task 1: Creating a Windows Phone Dev Center account ####
 
 If you already have an account with the Windows Phone Dev Center, proceed to [Task 2](#Ex4Task2).
@@ -196,5 +303,5 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 	_Purchase_
 
-<a name="Ex4Task2"></a>
+<a name="Ex6Task2"></a>
 #### Task 2: Publishing your app ####
