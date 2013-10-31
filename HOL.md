@@ -239,6 +239,8 @@ In this exercise you will learn how to configure the style of your app by doing 
 
 In this task you will learn how to customize the colors within your app.
 
+1. Click the **Next** button on the **Configure App Content** page.
+
 <a name="Ex4Task2"></a>
 #### Task 2: Tile customization ####
 
@@ -268,13 +270,13 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 1. Click the **Join Now** button
 
-	![Join Now](images/ex4task1-01-join-now.PNG "Join Now")
+	![Join Now](images/ex6-task1-01-join-now.PNG "Join Now")
 
 	_Join Now_
 
 1. Sign in with your Microsoft account.
 
-	![Sign In](images/ex4task1-02-sign-in.PNG "Sign In")
+	![Sign In](images/ex6-task1-02-sign-in.PNG "Sign In")
 
 	_Sign In_
 
@@ -282,7 +284,7 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 1.	Get started by selecting your country/region of residence or business, account type, and agreeing to the legal terms. Then click **Next**.
 
-	![Get Started](images/ex4task1-03-get-started.PNG "Get Started")
+	![Get Started](images/ex6-task1-03-get-started.PNG "Get Started")
 
 	_Get Started_
 
@@ -292,13 +294,13 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 1. Fill in your contact information.
 
-	![Contact Info](images/ex4task1-04-contact-info.PNG "Contact Info")
+	![Contact Info](images/ex6-task1-04-contact-info.PNG "Contact Info")
 
 	_Contact Info_
 
 1. Create a **Publisher Name** and click **Next**. The **Publisher Name** is what users see on their phone. Publisher names are unique and will be verified during the registration and account validation processes.
 
-	![Publisher Info](images/ex4task1-05-publisher-info.PNG "Publisher Info")
+	![Publisher Info](images/ex6-task1-05-publisher-info.PNG "Publisher Info")
 
 	_Publisher Info_
 
@@ -307,7 +309,7 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 	- If you're a student and have a DreamSpark account, you can set up a free Dev Center account.
 	- If you have a prompo code, you can redeem it by entering the code in the field.
 
-	![Purchase](images/ex4task1-06-purchase.PNG "Purchase")
+	![Purchase](images/ex6-task1-06-purchase.PNG "Purchase")
 
 	_Purchase_
 
