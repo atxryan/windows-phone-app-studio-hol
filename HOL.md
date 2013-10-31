@@ -79,9 +79,15 @@ If you already have an account with the Windows Phone store, proceed to [Task 2]
 
 1. Click the **Join Now** button
 
-	![Join Now](Images/ex5task1-01-join-now.png?raw=true "Join Now")
+	![Join Now](images/ex5task1-01-join-now.png?raw=true "Join Now")
 
 	_Join Now_
+
+1. Sign in with your Microsoft account.
+
+	![Sign In](images/ex5task1-02-sign-in.png?raw=true "Sign In")
+
+	_Sign In_
 
 <a name="Ex5Task2"></a>
 #### Task 2: Publishing your app ####
