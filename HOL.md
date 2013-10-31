@@ -51,7 +51,7 @@ In this exercise you will learn how to customize your app.
 <a name="Ex3Task1"></a>
 #### Task 1: Using content from the Web ####
 
-In this task you will learn how to customize your app using content from YouTube, Flickr, or Tumblr
+In this task you will learn how to customize your app using content from YouTube, Flickr, or Tumblr. 
 
 <a name="Ex3Task1Option1"></a>
 ##### Option 1: YouTube #####
@@ -73,7 +73,15 @@ In this exercise you will learn how to publish your app to the Windows Phone Sto
 <a name="Ex5Task1"></a>
 #### Task 1: Creating a Windows Phone Store account ####
 
-If you already have an account with the Windows Phone store, proceed to [Task 2](#Ex5Task2)
+If you already have an account with the Windows Phone store, proceed to [Task 2](#Ex5Task2).
+
+1. Open Internet Explorer and go to [https://dev.windowsphone.com/en-us/join](https://dev.windowsphone.com/en-us/join).
+
+1. Click the **Join Now** button
+
+	![Join Now](Images/ex5task1-01-join-now.png?raw=true "Join Now")
+
+	_Join Now_
 
 <a name="Ex5Task2"></a>
 #### Task 2: Publishing your app ####
