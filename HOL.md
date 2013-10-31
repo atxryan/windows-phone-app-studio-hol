@@ -89,5 +89,9 @@ If you already have an account with the Windows Phone store, proceed to [Task 2]
 
 	_Sign In_
 
+1.	Get started by selecting your country/region of residence or business, account type, and agreeing to the legal terms. Then click **Next**
+
+	Next select your account type. Select **Company** if you're registering on behalf of a corporation, LLC, partnership, or other company legally registered with your government. Select **Individual/Student** if you are an individual developer or a student with a verified DreamSpark account. 
+
 <a name="Ex5Task2"></a>
 #### Task 2: Publishing your app ####
