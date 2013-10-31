@@ -241,6 +241,36 @@ In this task you will learn how to customize the colors within your app.
 
 1. Click the **Next** button on the **Configure App Content** page.
 
+	![Next](images/ex4-task1-01-next.PNG "Next")
+
+	_Next_
+
+1. Change the **ACCENT BRUSH**. You can either use one of the predfined colors, or enter a custom color.
+
+	![Accent Brush](images/ex4-task1-02-accent-brush.PNG "Accent Brush")
+
+	_Accent Brush_
+
+1. Change the **BACKGROUND BRUSH**. You can either use one of the predefined colors, or use an image.
+
+	![Background Brush](images/ex4-task1-03-background-brush.PNG "Background Brush")
+
+	_Background Brush_
+
+1. Change the **FOREGROUND BRUSH**. You can either use one of the predefined colors, or enter a custom color.
+
+	![Foreground Brush](images/ex4-task1-04-foreground-brush.PNG "Foreground Brush")
+
+	_Foreground Brush_
+
+1. Change the **APPLICATION BAR BRUSH**. You can either use one of the predefined colors, or enter a custom color.
+
+	![Application Bar Brush](images/ex4-task1-05-application-bar-brush.PNG "Application Bar Brush")
+
+	_Application Bar Brush_
+
+
+
 <a name="Ex4Task2"></a>
 #### Task 2: Tile customization ####
 
