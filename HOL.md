@@ -358,13 +358,13 @@ In this exercise you will learn how to generate and test your app.
 
 1. Sign in with your Microsoft account.
 
-	![Sign In](images/ex5-06-sign-in.PNG "Sign In")
+	![Sign In](images/ex5-06-sign-in.png "Sign In")
 
 	_Sign In_
 
 1. Install the certificate.
 
-	![Certificate](images/ex5-07-certificate.PNG "Certificate")
+	![Certificate](images/ex5-07-certificate.png "Certificate")
 
 	_Certificate_
 
@@ -376,13 +376,13 @@ In this exercise you will learn how to generate and test your app.
 
 1. Confim you want to install the app by clicking the **install** button.
 
-	![Install App](images/ex5-09-install.PNG "Install App")
+	![Install App](images/ex5-09-install.png "Install App")
 
 	_Install App_
 
 1. After the install completes your app will appear in the list of apps on your phone. Tap the icon to start testing!
 
-	![Installed!](images/ex5-10-app.PNG "Installed!")
+	![Installed!](images/ex5-10-app.png "Installed!")
 
 	_Installed!_
 
