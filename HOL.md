@@ -269,17 +269,55 @@ In this task you will learn how to customize the colors within your app.
 
 	_Application Bar Brush_
 
-
-
 <a name="Ex4Task2"></a>
 #### Task 2: Tile customization ####
 
 In this task you will learn how to customize the tiles used by your app.
 
+1. On the **Configure App Style** page, click **tiles**.
+
+	![Tiles](images/ex4-task2-01-tiles.PNG "Tiles")
+
+	_Tiles_
+
+1. Select the **Flip template**, then click **Edit**.
+
+	![Flip Template](images/ex4-task2-02-flip-template.PNG "Flip Template")
+
+	_Flip Template_
+
+1. Customize the template by specifying a **TITLE**, **SMALL IMAGE**, **NORMAL IMAGE**, **BACK TITLE**, **BACK CONTENT** and a **BACK IMAGE**. When complete press the **checkmark** button.
+
+	![Edit Flip Template](images/ex4-task2-03-edit-flip-template.PNG "Edit Flip Template")
+
+	_Edit Flip Template_
+
 <a name="Ex4Task3"></a>
 #### Task 3: Splash and lock screens ####
 
 In this task you will learn how to customize your app's splash and lock screens.
+
+1. On the **Configure App Style** pae, click **splash & lock**.
+
+	![Splash & Lock](images/ex4-task3-01-splash-lock.PNG "Splash & Lock")
+
+	_Splash & Lock_
+
+1. To choose an image for your app's splash screen, click the **+** button next to the **SPLASH SCREEN BACKGROUND**.
+
+	![Splash Screen](images/ex4-task3-02-splash.PNG "Splash Screen")
+
+	_Splash Screen_
+
+	The image must be in jpg format and should be 768px by 1280px.
+
+1. To choose an image for your app's lock screen, click the **+** button next to the **LOCK SCREEN BACKGROUND**.
+
+	![Lock Screen](images/ex4-task3-03-lock.PNG "Lock Screen")
+
+	_Lock Screen_
+
+	The image can be in jpg or png format and should either be 480px by 800px or 960px by 1708px.
 
 <a name="Exercise5"></a>
 ### Exercise 5: Testing your app ###
