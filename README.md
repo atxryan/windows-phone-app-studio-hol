@@ -1,4 +1,6 @@
-windows-phone-app-studio-hol
+Windows Phone AppStudio Hands on Labs
 ============================
 
-Hands on lab for using Microsoft's Windows Phone AppStudio
+Hands on labs for using Microsoft's Windows Phone AppStudio to build apps for Windows Phone.
+
+1. [Building Your First App with Windows Phone App Studio Hands On Lab](build-your-first-app.md)

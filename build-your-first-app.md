@@ -1,5 +1,5 @@
 <a name="Title"></a>
-# Windows Phone App Studio Hands On Lab #
+# Building Your First App with Windows Phone App Studio Hands On Lab #
 
 ---
 <a name="Overview"></a>
