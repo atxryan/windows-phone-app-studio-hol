@@ -396,7 +396,7 @@ In this exercise you will learn how to publish your app to the Windows Phone Sto
 
 In this task you will learn how to create a Windows Phone Dev Center account.
 
-If you already have an account with the Windows Phone Dev Center, proceed to [Task 2](#Ex4Task2).
+If you already have an account with the Windows Phone Dev Center, proceed to [Task 2](#Ex6Task2).
 
 1. Open Internet Explorer and go to [https://dev.windowsphone.com/en-us/join](https://dev.windowsphone.com/en-us/join).
 
