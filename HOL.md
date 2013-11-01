@@ -394,6 +394,8 @@ In this exercise you will learn how to publish your app to the Windows Phone Sto
 <a name="Ex6Task1"></a>
 #### Task 1: Creating a Windows Phone Dev Center account ####
 
+In this task you will learn how to create a Windows Phone Dev Center account.
+
 If you already have an account with the Windows Phone Dev Center, proceed to [Task 2](#Ex4Task2).
 
 1. Open Internet Explorer and go to [https://dev.windowsphone.com/en-us/join](https://dev.windowsphone.com/en-us/join).
@@ -445,3 +447,101 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 <a name="Ex6Task2"></a>
 #### Task 2: Publishing your app ####
+
+In this task you will learn how to publish your app.
+
+Prior to publishing your package you will need to do the following:
+
+- Create a 300px x 300px tile to represent your app.
+- Create 1 768px x 1280px or 1280px x 768px screenshot of your app. This can be done by simply taking a screenshot of the app on your Windows Phone after you installed in [Exercise5](#Excercise5).
+
+1. In App Studio, click the **Download Publish Package** link.
+
+	![Download Package](images/ex6-task2-01-download-package.PNG "Download Package")
+
+	_Download Package_
+
+1. Be sure to read the guidance provided, then click **Download** to save the package to your machine.
+
+	![Download](images/ex6-task2-02-download.PNG "Download")
+
+	_Download_
+
+1. If you're not already signed into the Windows Phone Dev Center, open Internet Explorer and navigate to [https://dev.windowsphone.com/en-us](https://dev.windowsphone.com/en-us), and click **Sign in** to sign in with your Microsoft account.
+
+	![Sign In](images/ex6-task2-03-sign-in.PNG "Sign In")
+
+	_Sign In_
+
+1. Click the **SUBMIT APP** button.
+
+	![Submit App](images/ex6-task2-04-submit-app.PNG "Submit App")
+
+	_Submit App_
+
+1. Click **App info** to start providing information about your app.
+
+	![App Info](images/ex6-task2-05-app-info.PNG "App Info")
+
+	_App Info_
+
+1. Enter an **App alias** and select a **Category** for you app.
+
+	![App Alias & Category](images/ex6-task2-06-alias-category.PNG "App Alias & Category")
+
+	_App Alias & Category_
+
+1. If you want to charge for your app change the **Base price**, then click **Save**.
+
+	![Pricing](images/ex6-task2-07-price-save.PNG "Pricing")
+
+	_Pricing_
+
+1. Click **Upload and describe your XAP(s)** to upload the package you generated with App Studio.
+
+	![Upload & Describe](images/ex6-task2-08-upload-describe.PNG "Upload & Describe")
+
+	_Upload & Describe_
+
+1. Click **Add new** and select the package you downloaded from App Studio.
+
+	![Add New](images/ex6-task2-09-add-new.PNG "Add New")
+
+	_Add New_
+
+1. Once the package is uploaded, scroll down and enter a **Description for the Store** as well as **Specific keywords**.
+
+	![Description & Keywords](images/ex6-task2-10-description-keywords.PNG "Description & Keywords")
+
+	_Description & Keywords_
+
+1. Scroll down and click the **+** image to upload a 300px x 300px app title icon.
+
+	![App Title Icon](images/ex6-task2-11-app-title-icon.PNG "App Title Icon")
+
+	_App Title Icon_
+
+1. Scroll down and click the **+** to upload a screenshot of your app. Then click **Save**.
+
+
+	![Screenshots & Save](images/ex6-task2-12-screenshots-save.PNG "Screenshots & Save")
+
+	_Screenshots & Save_
+
+1. Click **Review and submit**.
+
+	![Review and submit](images/ex6-task2-13-review-submit.PNG "Review and submit")
+
+	_Review and submit_
+
+1. Review the details of your app and click **Submit**
+
+	![Submit](images/ex6-task2-14-submit.PNG "Submit")
+
+	_Submit_
+
+1. That's it! Your app has been submitted. You'll receive an email once it has been published!
+
+	![Success](images/ex6-task2-15-success.PNG "Success")
+
+	_Success_
