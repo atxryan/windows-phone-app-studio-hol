@@ -15,7 +15,7 @@ In this hands-on lab, you will learn how to:
 - Sign up for Windows Phone App Studio
 - Create your first app
 - Customize your app
-- Test your app
+- Generate and test your app
 - Publish your app
 
 <a name="Prerequisites"></a>
@@ -34,7 +34,7 @@ This hands-on lab includes the following exercises:
 - [Exercise 2: Creating your first app](#Exercise2)
 - [Exercise 3: Adding content to your app](#Exercise3)
 - [Exercise 4: Styling your app](#Exercise4)
-- [Exercise 5: Testing your app](#Exercise5)
+- [Exercise 5: Generating and testing your app](#Exercise5)
 - [Exercise 6: Publishing your app](#Exercise6)
 
 <a name="Exercise1"></a>
@@ -320,9 +320,71 @@ In this task you will learn how to customize your app's splash and lock screens.
 	The image can be in jpg or png format and should either be 480px by 800px or 960px by 1708px.
 
 <a name="Exercise5"></a>
-### Exercise 5: Testing your app ###
+### Exercise 5: Generating and testing your app ###
 
-In this exercise you will learn how to test your app.
+In this exercise you will learn how to generate and test your app.
+
+**Note:** In order to test your app you will need to have access to a Windows Phone device.
+
+1. Click the **Next** button.
+
+	![Next](images/ex5-01-next.PNG "Next")
+
+	_Next_
+
+1. Click the **Generate app** link.
+
+	![Generate App](images/ex5-02-generate-app.PNG "Generate App")
+
+	_Generate App_
+
+1. Confirm the that you want to generate the app by clicking the **checkmark**.
+
+	![Confirm](images/ex5-03-confirm.PNG "Confirm")
+
+	_Confirm_
+
+1. Wait for your app to be generated. This process could take several minutes
+
+	![Generating App](images/ex5-04-generating-app.PNG "Generating App")
+
+	_Generating App_
+
+1. Once your app is generated, using the Windows Phone you want to test the app on, check your email for confirmation that the app has been generated. This email will contain a link to a certificate you must install on your phone prior to testing the app. Click the **click here** link to install the certificate.
+
+	![Install Certificate](images/ex5-05-certificate.PNG "Install Certificate")
+
+	_Install Certificate_
+
+1. Sign in with your Microsoft account.
+
+	![Sign In](images/ex5-06-sign-in.PNG "Sign In")
+
+	_Sign In_
+
+1. Install the certificate.
+
+	![Certificate](images/ex5-07-certificate.PNG "Certificate")
+
+	_Certificate_
+
+1. Using your phone, scan the **QR** code displayed in App Studio.
+
+	![Scan Code](images/ex5-08-scan-code.PNG "Scan Code")
+
+	_Scan Code_
+
+1. Confim you want to install the app by clicking the **install** button.
+
+	![Install App](images/ex5-09-install.PNG "Install App")
+
+	_Install App_
+
+1. After the install completes your app will appear in the list of apps on your phone. Tap the icon to start testing!
+
+	![Installed!](images/ex5-10-app.PNG "Installed!")
+
+	_Installed!_
 
 <a name="Exercise6"></a>
 ### Exercise 6: Publishing your app ###
