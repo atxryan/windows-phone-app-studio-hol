@@ -42,7 +42,7 @@ This hands-on lab includes the following exercises:
 
 In this exercies you will sign up for access to Windows Phone App Studio. If you already have access to App Studio, please proceed to [Exercise 2](#Exercise2).
 
-1. Open Internet Explorer and go to [http://http://apps.windowsstore.com/](http://http://apps.windowsstore.com/n).
+1. Open Internet Explorer and go to [http://apps.windowsstore.com/](http://apps.windowsstore.com/).
 
 1. Click the **Start Building** button.
 
