@@ -398,6 +398,8 @@ In this task you will learn how to create a Windows Phone Dev Center account.
 
 If you already have an account with the Windows Phone Dev Center, proceed to [Task 2](#Ex6Task2).
 
+**If you are a student and want a free Windows Phone Dev Center account through DreamSpark, please read this [blog post](http://blogs.msdn.com/b/cdnstudents/archive/2012/09/24/how-to-get-your-free-student-windows-phone-store-account.aspx)**
+
 1. Open Internet Explorer and go to [https://dev.windowsphone.com/en-us/join](https://dev.windowsphone.com/en-us/join).
 
 1. Click the **Join Now** button
