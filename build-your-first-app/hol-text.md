@@ -217,7 +217,9 @@ If you already have an account with the Windows Phone Dev Center, proceed to [Ta
 
 1. Click the **Join Now** button
 
-1. Sign in with your Microsoft account. **Note:** If you plan on using DreamSpark for a free Dev Center you will need to sign in using the Microsoft account associated with your DreamSpark account.
+1. Sign in with your Microsoft account.
+
+	**Note:** If you plan on using DreamSpark for a free Dev Center you will need to sign in using the Microsoft account associated with your DreamSpark account.
 
 1.	Get started by selecting your country/region of residence or business, account type, and agreeing to the legal terms. Then click **Next**.
 
