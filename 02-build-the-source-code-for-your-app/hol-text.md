@@ -11,7 +11,7 @@ This hands on lab will walk you through the process of downloading and building 
 ### Prerequisities ###
 
 The following is required to complete this hands-on lab:
-- An app built with AppStudio. If you haven't built an app with app studio, you can follow [this step-by-step hands on lab](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/build-your-first-app/hol.md) to do so.
+- An app built with AppStudio. If you haven't built an app with app studio, you can follow [this step-by-step hands on lab](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/01-build-your-first-app/hol.md) to do so.
 - Visual Studio 2012 or Visual Studio 2013 with the Windows Phone SDK installed.
 
 ---

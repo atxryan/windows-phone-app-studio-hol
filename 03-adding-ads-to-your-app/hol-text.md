@@ -11,8 +11,8 @@ This hands on lab will walk you through the process of adding ads to your AppStu
 ### Prerequisities ###
 
 The following is required to complete this hands-on lab:
-- An app built with AppStudio. If you haven't built an app with app studio, you can follow [this step-by-step hands on lab](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/build-your-first-app/hol.md) to do so.
-- The source code for your AppStudio app. If you haven't downloaded and built the srouce code for your app, you can follow [this step-by-step hands on lab](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/build-the-source-code-for-your-app/hol.md) to do so.
+- An app built with AppStudio. If you haven't built an app with app studio, you can follow [this step-by-step hands on lab](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/01-build-your-first-app/hol.md) to do so.
+- The source code for your AppStudio app. If you haven't downloaded and built the srouce code for your app, you can follow [this step-by-step hands on lab](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/02-build-the-source-code-for-your-app/hol.md) to do so.
 - Visual Studio 2012 or Visual Studio 2013 with the Windows Phone SDK installed.
 
 ---
@@ -91,7 +91,7 @@ In this task you will learn how to create a mobile application ad unit with pubC
 
 In this exercise you will learn how to add the Windows Phone advertising control to your app to display ads.
 
-If you have not already downloaded and built the source code for your AppStudio app, please follow this step-by-step guide before proceeding: [https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/build-the-source-code-for-your-app/hol.md](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/build-the-source-code-for-your-app/hol.md).
+If you have not already downloaded and built the source code for your AppStudio app, please follow this step-by-step guide before proceeding: [https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/02-build-the-source-code-for-your-app/hol.md](https://github.com/agrocholski/windows-phone-app-studio-hol/blob/master/02-build-the-source-code-for-your-app/hol.md).
 
 1. Open the **Solution** file for your source code.
 
