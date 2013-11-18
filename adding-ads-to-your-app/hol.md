@@ -40,19 +40,19 @@ In this task you will learn how to sign up for a pubCenter account.
 
 1. Click the **Sign up now** button
 
-	![Sign up now](images/ex1task1-01-sign-up.png "Sign up now")
+	![Sign up now](images/ex1task1-01-sign-up.PNG "Sign up now")
 
 	_Sign up now_
 
 1. If prompted, **Sign in** with your Microsoft account.
 
-	![Sign in](images/ex1task1-02-sign-in.png "Sign in")
+	![Sign in](images/ex1task1-02-sign-in.PNG "Sign in")
 
 	_Sign in_
 
 1. Confirm or change the information displayed, check the checkbox, and click **Continue**
 
-	![Contact information](images/ex1task1-03-information.png "Contact information")
+	![Contact information](images/ex1task1-03-information.PNG "Contact information")
 
 	_Contact information_
 
@@ -67,37 +67,37 @@ In this task you will learn how to register a mobile application with pubCenter.
 
 1. Click the **Sign in with your Microsoft account** link.
 
-	![Sign in with your Microsoft account](images/ex1task2-01-sign-in.png "Sign in with your Microsoft account")
+	![Sign in with your Microsoft account](images/ex1task2-01-sign-in.PNG "Sign in with your Microsoft account")
 
 	_Sign in with your Microsoft account_
 
 1. Enter the credentials associated with your Microsoft account and click the **Sign in** button.
 
-	![Sign in](images/ex1task2-02-sign-in.png "Sign in")
+	![Sign in](images/ex1task2-02-sign-in.PNG "Sign in")
 
 	_Sign in_
 
 1. Click the **Setup** link at the top of the page
 
-	![Setup](images/ex1task2-03-setup.png "Setup")
+	![Setup](images/ex1task2-03-setup.PNG "Setup")
 
 	_Setup_
 
 1. Click the **Register application** link
 
-	![Register application](images/ex1task2-04-register-application.png "Register application")
+	![Register application](images/ex1task2-04-register-application.PNG "Register application")
 
 	_Register application_
 
 1. Enter the **Name** of your application, select **Windows Phone** for the **Device type**, and click the **Save** button.
 
-	![Application information](images/ex1task2-05-app-info.png "Application information")
+	![Application information](images/ex1task2-05-app-info.PNG "Application information")
 
 	_Application information_
 
 1. Once your application is registered, copy the **Application Id**, as you will need it for [Exercise 2](#Exercise2).
 
-	![Application details](images/ex1task2-06-app-details.png "Application details")
+	![Application details](images/ex1task2-06-app-details.PNG "Application details")
 
 	_Application details_
 
@@ -110,43 +110,43 @@ In this task you will learn how to create a mobile application ad unit with pubC
 
 1. Click the **Sign in with your Microsoft account** link.
 
-	![Sign in with your Microsoft account](images/ex1task3-01-sign-in.png "Sign in with your Microsoft account")
+	![Sign in with your Microsoft account](images/ex1task3-01-sign-in.PNG "Sign in with your Microsoft account")
 
 	_Sign in with your Microsoft account_
 
 1. Enter the credentials associated with your Microsoft account and click the **Sign in** button.
 
-	![Sign in](images/ex1task3-02-sign-in.png "Sign in")
+	![Sign in](images/ex1task3-02-sign-in.PNG "Sign in")
 
 	_Sign in_
 
 1. Click the **Setup** link at the top of the page
 
-	![Setup](images/ex1task3-03-setup.png "Setup")
+	![Setup](images/ex1task3-03-setup.PNG "Setup")
 
 	_Setup_
 
 1. Click the **Create ad unit** link.
 
-	![Create ad unit](images/ex1task3-04-create-ad-unit.png "Create ad unit")
+	![Create ad unit](images/ex1task3-04-create-ad-unit.PNG "Create ad unit")
 
 	_Create ad unit_
 
 1. Enter the **Ad unit name**, select your **Application**, and select the **Ad unit size**.
 
-	![Ad unit details](images/ex1task3-05-ad-unit-details.png "Ad unit details")
+	![Ad unit details](images/ex1task3-05-ad-unit-details.PNG "Ad unit details")
 
 	_Ad unit details_
 
 1. Select the appropriate **Dev Center app category** and **Dev Center app subcategory** (if applicable), then click the **Save** button.
 
-	![Dev Center app category](images/ex1task3-06-category.png "Dev Center app category")
+	![Dev Center app category](images/ex1task3-06-category.PNG "Dev Center app category")
 
 	_Dev Center app category_
 
 1. Once the ad unit is created, copy the **Ad Unit Id**, as you will need it for [Exercise 2](#Exercise2).
 
-	![Ad unit details](images/ex1task3-07-ad-unit-id.png "Ad unit details")
+	![Ad unit details](images/ex1task3-07-ad-unit-id.PNG "Ad unit details")
 
 	_Ad unit details_
 
@@ -159,49 +159,49 @@ If you have not already downloaded and built the source code for your AppStudio 
 
 1. Open the **Solution** file for your source code.
 
-	![Solution](images/ex2-01-solution.png "Solution")
+	![Solution](images/ex2-01-solution.PNG "Solution")
 
 	_Solution_
 
 1. Using **Solution Explorer**, open the **1 - UI** folder, expand the **WP8App** project, expand the **View** folder, and double-click the **.xaml** file that corresponds to the menu you create in AppStudio.
 
-	![Menu](images/ex2-02-menu.png "Menu")
+	![Menu](images/ex2-02-menu.PNG "Menu")
 
 	_Menu_
 
 1. If the file opens in the visual designer, click the **XAML** button to view the markup of the page.
 
-	![Designer](images/ex2-03-designer.png "Designer")
+	![Designer](images/ex2-03-designer.PNG "Designer")
 
 	_Designer_
 
 1. Press **Ctrl + G**, enter **65**, and press the **OK** button.
 
-	![Go To Line](images/ex2-04-go-to-line.png "Go To Line")
+	![Go To Line](images/ex2-04-go-to-line.PNG "Go To Line")
 
 	_Go To Line_
 
 1. Remove the **comment tags** that surround lines 67-70.
 
-	![Remove comment tags](images/ex2-05-remove-comment-tags.png "Remove comment tags")
+	![Remove comment tags](images/ex2-05-remove-comment-tags.PNG "Remove comment tags")
 
 	_Remove comment tags_
 
 1. Update the **Height** and **Width** attributes of the **AdControl** to match the dimensions of the ad unit you created in [Exercise 1, Task 3](#Ex1Task3).
 
-	![Ad unit dimensions](images/ex2-06-ad-unit-dimensions.png "Ad unit dimensions")
+	![Ad unit dimensions](images/ex2-06-ad-unit-dimensions.PNG "Ad unit dimensions")
 
 	_Ad unit dimensions_
 
 1. Update the **AdUnitId** attribute of the **AdControl** to the value for the ad unit you created in [Exercise 1, Task 3](#Ex1Task3).
 
-	![Ad unit id](images/ex2-07-ad-unit-id.png "Ad unit id")
+	![Ad unit id](images/ex2-07-ad-unit-id.PNG "Ad unit id")
 
 	_Ad unit id_
 
 1. Update the **ApplicationId** attribute of the **AdControl** to the value for the mobile application you registered in [Exercise 1, Task 2](#Ex1Task2)
 
-	![Application id](images/ex2-08-application-id.png "Application id")
+	![Application id](images/ex2-08-application-id.PNG "Application id")
 
 	_Application id_
 
